@@ -51,4 +51,4 @@ def get_movies():
                            director_name=director_name)
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5555)
+    app.run()
